@@ -1,0 +1,4 @@
+functores
+pattern matching
+polimorfismo
+ilogico

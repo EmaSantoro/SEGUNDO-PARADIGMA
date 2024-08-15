@@ -82,6 +82,6 @@ esLaCabra(lebron, basquet).
 fraude(Atleta):-
     esLaCabra(Atleta, Disciplina),
     % fuckin orden superior 🤯
-    not(ganador(Atleta, Disciplina)).
+    not(ganador(Atleta, Disciplina)). 
 
 %hola
